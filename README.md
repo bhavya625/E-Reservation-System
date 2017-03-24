@@ -1,5 +1,5 @@
 E-Reservation System
-
+--------------------
 Our reservation system has Four modules. 
 First module helps the customer to enquire the availability of seats in a particular bus. 
 Second module helps him to reserve a ticket. 
